@@ -1,0 +1,16 @@
+Serial cables predecessed USB. Connected to PC using DB9 w/screws
+
+Fastest is 115 kb/s. Only 1 device per 1 serial port
+
+Universal Serial Bus allows us to connect (127?) to 1 port in a daisy chain. Limit is host controller for each port which has max amount bandwidth.
+
+Low Full Hi SuperSpeed
+
+Low USB 1.0 max is 1.5 mb/s replaced serial 115 kb/s
+Full 1.1 12 mb/s
+High 2.0 480 mb/s
+SuperSpeed 3.1G1 5 Gb/s
+	3.1G2 10 Gb/s
+	3.2 10 Gb/s
+	Gen2x2 20 Gb/s
+	4.0 40 Gb/s

@@ -1,0 +1,26 @@
+To define a computer, it must do 4 things:
+
+    Input
+    Storage
+    Process
+    Output
+
+4 Safeties as a tech: Personal, Component, Electrical, Chemical
+
+MSDS contains all info for chemical/hazardous material
+
+Troubleshooting (6 steps):
+
+    Identify the problem
+    Establish theory of probable cause
+    Test theory to determine cause, reestablish if fail
+    Establish plan to solve & implement solution
+    Verify full system functionality
+    Document the findings, actions, & outcome
+
+USB 3 is up to 5 Gb/s
+Ethernet known as RJ45 connects
+
+DVI is white monitor connection
+SPDIF optical port for I/O Audio
+Kensington Cable looks like USB but is metald lock cable to tether PC to desk
